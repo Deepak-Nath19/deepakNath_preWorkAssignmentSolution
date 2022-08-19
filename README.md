@@ -1,0 +1,2 @@
+# deepakNath_preWorkAssignmentSolution
+programs that performs multiple operations
